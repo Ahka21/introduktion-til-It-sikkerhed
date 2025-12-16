@@ -1,0 +1,4 @@
+total 12
+drwxrwxr-x 2 bigz bigz 4096 Dec 15 21:22 .
+drwxrwxr-x 3 bigz bigz 4096 Dec 15 21:22 ..
+-rw-rw-r-- 1 bigz bigz    9 Dec 15 21:22 .hidden_notes

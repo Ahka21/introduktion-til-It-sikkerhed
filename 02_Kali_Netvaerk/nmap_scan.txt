@@ -1,0 +1,7 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-15 22:08 EST
+Nmap scan report for 192.168.184.128
+Host is up (0.0000010s latency).
+All 1000 scanned ports on 192.168.184.128 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds

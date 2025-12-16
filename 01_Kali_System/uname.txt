@@ -1,0 +1,1 @@
+Linux kali 6.12.25-arm64 #1 SMP Kali 6.12.25-1kali1 (2025-04-30) aarch64 GNU/Linux

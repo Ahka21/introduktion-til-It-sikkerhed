@@ -1,0 +1,20 @@
+top - 21:59:33 up 18:26,  1 user,  load average: 0.26, 0.14, 0.10
+Tasks: 309 total,   1 running, 308 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.1 us,  4.5 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   1965.4 total,     44.3 free,   1308.3 used,    736.6 buff/cache     
+MiB Swap:   1921.0 total,   1766.5 free,    154.5 used.    657.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1053 root      20   0  831688 203752  56360 S  18.2  10.1   2:49.63 Xorg
+ 556797 bigz      20   0  589280  60968  47228 S   9.1   3.0   0:00.66 qtermin+
+      1 root      20   0   24860  12284   8808 S   0.0   0.6   0:06.38 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.02 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     15 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+

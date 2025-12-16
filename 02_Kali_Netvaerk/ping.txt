@@ -1,0 +1,8 @@
+PING kali.org (104.18.5.159) 56(84) bytes of data.
+64 bytes from 104.18.5.159: icmp_seq=1 ttl=128 time=4.61 ms
+64 bytes from 104.18.5.159: icmp_seq=2 ttl=128 time=9.05 ms
+64 bytes from 104.18.5.159: icmp_seq=3 ttl=128 time=5.23 ms
+
+--- kali.org ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 4.609/6.297/9.050/1.962 ms

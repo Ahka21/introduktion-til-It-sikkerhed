@@ -1,0 +1,2 @@
+Kører sleep-processer:
+bigz      565615  0.0  0.0   5288  1692 pts/0    SN   22:13   0:00 sleep 120

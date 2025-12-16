@@ -1,0 +1,7 @@
+total 12
+drwxrwxr-x  2 bigz bigz 4096 Dec 15 21:21 .
+drwxrwxr-x 11 bigz bigz 4096 Dec 15 21:10 ..
+-rw-rw-r--  1 bigz bigz    0 Dec 15 21:21 ls_la.txt
+-rw-rw-r--  1 bigz bigz   26 Dec 15 21:21 pwd.txt
+-rw-rw-r--  1 bigz bigz    0 Dec 15 08:40 test1.txt
+-rw-rw-r--  1 bigz bigz    0 Dec 15 08:40 test2.txt
